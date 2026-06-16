@@ -9,10 +9,3 @@ A fully interactive, 2-player Pokémon battling game built in Python using `tkin
 *   **Elemental Type Advantages:** Built-in strengths and weaknesses (e.g., Water beats Fire, Fire beats Grass). Using an elemental attack with a type advantage has an 80% chance to land a Critical Hit!
 *   **Evolution Mechanics:** When a player loses a round, the winning player's Pokémon evolves into its next form, gaining updated stats for the next battle.
 *   **Data Driven:** Reads raw Pokémon stats from a CSV file and filters the dataset dynamically using `pandas`.
-
-## 📋 Prerequisites
-
-To run this project, you will need Python installed on your machine along with the `pandas` library.
-
-```bash
-pip install pandas
